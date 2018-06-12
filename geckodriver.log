@@ -1,0 +1,233 @@
+1528811191016	geckodriver	INFO	geckodriver 0.20.1
+1528811191023	geckodriver	INFO	Listening on 127.0.0.1:19161
+1528811194029	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\KYLEAB~1\\AppData\\Local\\Temp\\rust_mozprofile.AzITfgmignOP"
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+1528811195687	Marionette	INFO	Listening on port 19171
+1528811196076	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.citi.com/CRD/js/jQuery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6276029, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6256710, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8114478, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6260004, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6399653, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6397642, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6268858, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6399652, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6400844, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6953527, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6638172, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6417343, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6269322, line 69: unreachable code after return statement
+[Parent 7292, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17232, Chrome_Child[Parent 7292, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1668, C*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528811367035	geckodriver	INFO	geckodriver 0.20.1
+1528811367050	geckodriver	INFO	Listening on 127.0.0.1:19367
+1528811370095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\KYLEAB~1\\AppData\\Local\\Temp\\rust_mozprofile.5RJ7e8Q3wmdF"
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+1528811371666	Marionette	INFO	Listening on port 19375
+1528811372128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.citi.com/CRD/js/jQuery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6953527, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6400844, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6256710, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6276029, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8114478, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6417343, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6399653, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6397642, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6399652, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6260004, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6268858, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6638172, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6269322, line 69: unreachable code after return statement
+[Parent 16332, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16332, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528811492976	geckodriver	INFO	geckodriver 0.20.1
+1528811492976	geckodriver	INFO	Listening on 127.0.0.1:19586
+1528811496017	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\KYLEAB~1\\AppData\\Local\\Temp\\rust_mozprofile.2D1t7iNgYGlB"
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+1528811497602	Marionette	INFO	Listening on port 19597
+1528811498104	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.citi.com/CRD/js/jQuery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6638172, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6256710, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8114478, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6399653, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6400844, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6276029, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6399652, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6269322, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6397642, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6417343, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6268858, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6260004, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6953527, line 69: unreachable code after return statement
+[Child 14880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14880, Chrome[Child 11648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17028,*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 12388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528811542514	geckodriver	INFO	geckodriver 0.20.1
+1528811542530	geckodriver	INFO	Listening on 127.0.0.1:19710
+1528811545560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\KYLEAB~1\\AppData\\Local\\Temp\\rust_mozprofile.X9PCaOku24t1"
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+1528811547326	Marionette	INFO	Listening on port 19721
+1528811547601	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9168, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://www.citi.com/CRD/js/jQuery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6256710, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8114478, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6953527, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6399653, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6397642, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6399652, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6400844, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6269322, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6276029, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6260004, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6417343, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6268858, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6638172, line 69: unreachable code after return statement
+[Parent 9168, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9168, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528811581788	geckodriver	INFO	geckodriver 0.20.1
+1528811581788	geckodriver	INFO	Listening on 127.0.0.1:19829
+1528811584833	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\KYLEAB~1\\AppData\\Local\\Temp\\rust_mozprofile.g2LsC7DJWA7j"
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+1528811586392	Marionette	INFO	Listening on port 19839
+1528811586895	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.citi.com/CRD/js/jQuery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6417343, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6256710, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6276029, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6399653, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8114478, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6397642, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6269322, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6399652, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6400844, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6268858, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6953527, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6260004, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6638172, line 69: unreachable code after return statement
+[Child 11164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 16860, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10512, Chrome_ChildThread] WARNING: pipe error: 109: fil*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528811758474	geckodriver	INFO	geckodriver 0.20.1
+1528811758474	geckodriver	INFO	Listening on 127.0.0.1:20053
+1528811761534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\KYLEAB~1\\AppData\\Local\\Temp\\rust_mozprofile.iMCdpkbDPsiK"
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+1528811763072	Marionette	INFO	Listening on port 20062
+1528811763572	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.citi.com/CRD/js/jQuery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6260004, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8114478, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6268858, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6638172, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6399653, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6400844, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6397642, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6399652, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6276029, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6256710, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6953527, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6269322, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6417343, line 69: unreachable code after return statement
+[Parent 15684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528811807521	geckodriver	INFO	geckodriver 0.20.1
+1528811807537	geckodriver	INFO	Listening on 127.0.0.1:20175
+1528811810585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\KYLEAB~1\\AppData\\Local\\Temp\\rust_mozprofile.pid39yBnjnel"
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\kyleaburkett\AppData\Local\openvr\openvrpaths.vrpath
+1528811812203	Marionette	INFO	Listening on port 20186
+1528811812629	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.citi.com/CRD/js/jQuery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6276029, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6260004, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6399653, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6256710, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-8114478, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6399652, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6953527, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6400844, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6397642, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6417343, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6269322, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6268858, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6638172, line 69: unreachable code after return statement
+[Child 12668, Chrome_ChildThread] W[Child 8188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 8188, Chrome_ChildTh
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+read] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

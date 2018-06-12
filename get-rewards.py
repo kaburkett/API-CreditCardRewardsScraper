@@ -5,7 +5,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import Select
 from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import NoAlertPresentException
-import unittest, time, re
+import unittest, time, re, json
 
 class GetCreditCardRewards(unittest.TestCase):
     def setUp(self):
@@ -21,8 +21,11 @@ class GetCreditCardRewards(unittest.TestCase):
         discoverItRewards = driver.find_element_by_xpath("//*[@id=\"tab_31463\"]/a/p").text
         driver.get("https://www.citi.com/credit-cards/credit-cards-citi/citi.action?ID=dividend-quarterly-offer")
         citiRewards = driver.find_element_by_xpath("//*[@id=\"contentFirst\"]/div[1]/ul/li[2]/span[2]").text
-        str(discoverItRewards)
-        str(citiRewards)
+        data = {}
+        data['Discover'] = discoverItRewards
+        data['Citi'] = citiRewards
+        json_data = json.dumps(data)
+        print(json_data)
     
     def is_element_present(self, how, what):
         try: self.driver.find_element(by=how, value=what)
