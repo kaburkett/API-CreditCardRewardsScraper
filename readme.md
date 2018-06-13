@@ -27,7 +27,7 @@ Run python app on webserver, then make a get request to /
         "Citi":"Gas Stations"
     }
 
-## Running the app
+## App Requirements
 
 I've saved the dependencies to requirements.txt, so quickly install all python requirements with pip install -r requirements.txt
 
@@ -35,3 +35,20 @@ Developed using the following versions:
 
 * Python: 3.6
 * Pip: 10.0.1
+* Firefox: 60.0.2
+* Gunicorn: 19.8.1
+
+## Install guide
+
+    $ apt-get install virtualenv
+    $ git clone https://github.com/kaburkett/API-CreditCardRewardsScraper.git
+    $ cd API-CreditCardRewardsScraper/falcon_api
+    $ virtualenv venv -p /user/bin/python3
+    $ . ven/bin/activate
+    (venv) $ apt-get install build-essentials python3-dev
+    (venv) $ pip install cython
+    (venv) $ pip install --no-binary :all: falcon
+    (venv) $ pip install gunicorn
+    (venv) $ gunicorn -b 0.0.0.0:80 main:app 
+
+Now the api should be running on localhost!

@@ -43,3 +43,6 @@ print("just instantiating")
 
 # Add a route to serve the resource
 app.add_route('/', test_resource)
+
+if __name__ == "__main__":
+    unittest.main()
