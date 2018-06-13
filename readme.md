@@ -52,3 +52,7 @@ Developed using the following versions:
     (venv) $ gunicorn -b 0.0.0.0:80 main:app 
 
 Now the api should be running on localhost!
+
+## Additional Info
+
+Great write up on running falcon apps with gunicorn: https://www.digitalocean.com/community/tutorials/how-to-deploy-falcon-web-applications-with-gunicorn-and-nginx-on-ubuntu-16-04
