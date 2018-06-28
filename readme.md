@@ -10,6 +10,7 @@ This project uses
 * Falcon: the lightest weight python api framework I could find
 * Venv: linux virtual environment to maintain easily deployable container
 * Gunicorn: run the falcon api locally
+* Sqlite: storing the categories
 
 ## How to use
 
@@ -37,6 +38,7 @@ Developed using the following versions:
 * Pip: 10.0.1
 * Firefox: 60.0.2
 * Gunicorn: 19.8.1
+* Sqlite: 3
 
 ## Install guide
 
