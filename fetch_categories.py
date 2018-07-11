@@ -16,7 +16,7 @@ def updateCategories(bank, category):
     conn = sqlite3.connect(sqlite_file)
     c = conn.cursor()
     # C) Updates the newly inserted or pre-existing entry            
-    c.execute("UPDATE 'categories' SET 'category'=category WHERE 'bank'=bank")
+    c.execute('UPDATE "categories" SET category= ? WHERE "bank"= ?', (category, bank))
     try:
         conn.commit()
     except:
