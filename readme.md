@@ -14,19 +14,21 @@ This project uses
 
 ## How to use
 
-Run python app on webserver, then make a get request to /
+fetch_categories.py should be ran every week with a cronjob to update the sqlite database (this gives us a faster response because it prevents the selenium test from running on each request as the test takes a few seconds to complete).
 
-    http.get('yourwebserver/').response(success=>{
+Run python app on webserver, then make a get request to /rewards
+
+    http.get('yourwebserver/rewards').response(success=>{
         console.log(success);
     }.error=>{
         console.log(error);
     }
 
     //output
-    {
-        "Discover":"Home Improvement",
-        "Citi":"Gas Stations"
-    }
+    [
+        [1, "Discover", "it", "Grocery Stores"],
+        [2, "Citi", "Simplicity", "Home Furnishing Stores"]
+    ]
 
 ## App Requirements
 
