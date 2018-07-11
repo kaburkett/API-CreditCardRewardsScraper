@@ -51,9 +51,9 @@ Developed using the following versions:
     (venv) $ pip install cython
     (venv) $ pip install --no-binary :all: falcon
     (venv) $ pip install gunicorn
-    (venv) $ gunicorn -b 0.0.0.0:80 main:app 
+    (venv) $ gunicorn -b 127.0.0.1:8080 main:app 
 
-Now the api should be running on localhost!
+Now the api should be running on localhost:8080!
 
 ## Additional Info
 
