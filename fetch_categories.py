@@ -7,6 +7,7 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import NoAlertPresentException
 import unittest, time, re, json
 import sqlite3
+from datetime import datetime
 
 def updateCategories(bank, category):
     print("grabbing and attempting to write to db")
@@ -26,18 +27,32 @@ def updateCategories(bank, category):
 data = {}
 
 class GetCreditCardRewards(unittest.TestCase):
+    #boot webdriver
     Options = options.Options()
     Options.add_argument("--headless")
     driver = webdriver.Firefox(firefox_options=Options)
-    print("web driver actually is set")
+    #find current rewards categories
     driver.get("https://www.discover.com/credit-cards/cashback-bonus/cashback-calendar.html")
-    discoverItRewards = driver.find_element_by_xpath("//*[@id=\"tab_31463\"]/a/p").text
+    discoverItRewards = driver.find_element_by_css_selector(".offer-enroll .offer-name").text
     driver.get("https://www.citi.com/credit-cards/credit-cards-citi/citi.action?ID=dividend-quarterly-offer")
-    citiRewards = driver.find_element_by_xpath("//*[@id=\"contentFirst\"]/div[1]/ul/li[2]/span[2]").text
-    #data['Discover'] = discoverItRewards
+    citiRewardsList = driver.find_elements_by_css_selector(".selectedProductRow .descriptions")
+    citi = ""
+    for citiRewards in citiRewardsList:
+        if citi == "":
+            citi = citiRewards.text
+        else: citi = citi + " and " + citiRewards.text
+    #chase is harder because they are all images so it has to be done by quarter and alt text
+    currentMonth = datetime.now().month
+    currentQuarter = (currentMonth-1)//3
+    driver.get("https://creditcards.chase.com/freedom/calendar")
+    chaseRewardsList = driver.find_elements_by_css_selector(".quarter-box-wrapper .quarter-box")
+    chase = chaseRewardsList[currentQuarter].find_element_by_css_selector("img")
+    chase = chase.get_attribute("alt")
+
+    #write to sqllite
     updateCategories('Discover', discoverItRewards)
-    updateCategories('Citi', citiRewards)
-    #data['Citi'] = citiRewards
+    updateCategories('Citi', citi)
+    updateCategories('Chase', chase)
 
     
 if __name__ == "__main__":
